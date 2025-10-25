@@ -1,0 +1,5 @@
+{
+  "name": "HR Employee Photo Standardizer",
+  "description": "An application for HR staff to upload employee photos and use text prompts to standardize backgrounds and attire using the Gemini API.",
+  "requestFramePermissions": []
+}
